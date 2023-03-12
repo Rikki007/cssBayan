@@ -179,4 +179,8 @@
     width: 200px;
   }
 
+  .cell-body-pic {
+    max-width: 80%;
+    height: 80%;
+  }  
  }
